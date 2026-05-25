@@ -1,2 +1,1 @@
-# zoldseges.github.io
-palkovics adam's github.io page
+this page is just a placeholder
